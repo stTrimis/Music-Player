@@ -1,5 +1,5 @@
 # Music-Player
-Created with Android Studio
+Created with Java, in Android Studio
 
 You can download the repository and run it on Android Studio.
 
