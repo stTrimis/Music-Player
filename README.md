@@ -3,7 +3,7 @@ Created with Java, in Android Studio
 
 You can download the repository and run it on Android Studio.
 
-Also i realesed the up as APK. To find it you have to follow the following path
+Also i realesed the app as APK. To find it you have to follow the following path
 
 Music Player->app->realese->music_player.apk
 
